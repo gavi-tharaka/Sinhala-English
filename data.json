@@ -1,5 +1,10 @@
 [
   {
+    "Sentence": "interaction",
+    "Meaning": "අන්තර්ක්රියා",
+    "done": false
+  },
+  {
     "Sentence": "However",
     "Meaning": "කෙසේ වෙතත්",
     "done": false
@@ -12,11 +17,6 @@
   {
     "Sentence": "Google Translate",
     "Meaning": "Google පරි 'වර්තක",
-    "done": true
-  },
-  {
-    "Sentence": "interaction",
-    "Meaning": "අන්තර්ක්රියා",
     "done": true
   },
   {
