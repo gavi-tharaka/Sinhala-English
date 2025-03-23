@@ -5,16 +5,17 @@
     "done": false
   },
   {
-    "Sentence": "Google Translate",
-    "Meaning": "Google පරි 'වර්තක"
-  },
-  {
     "Sentence": "However",
     "Meaning": "කෙසේ වෙතත්"
   },
   {
     "Sentence": "Emergence",
     "Meaning": "ඉස්මතු වීම",
+    "done": true
+  },
+  {
+    "Sentence": "Google Translate",
+    "Meaning": "Google පරි 'වර්තක",
     "done": true
   }
 ]
