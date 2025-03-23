@@ -5,11 +5,6 @@
     "done": false
   },
   {
-    "Sentence": "Google Translate",
-    "Meaning": "Google පරි 'වර්තක",
-    "done": false
-  },
-  {
     "Sentence": "are",
     "Meaning": "වේ"
   },
@@ -21,6 +16,11 @@
   {
     "Sentence": "interaction",
     "Meaning": "අන්තර්ක්රියා",
+    "done": true
+  },
+  {
+    "Sentence": "Google Translate",
+    "Meaning": "Google පරි 'වර්තක",
     "done": true
   }
 ]
