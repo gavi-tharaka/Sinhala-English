@@ -1,5 +1,10 @@
 [
   {
+    "Sentence": "Google Translate",
+    "Meaning": "Google පරි 'වර්තක",
+    "done": false
+  },
+  {
     "Sentence": "interaction",
     "Meaning": "අන්තර්ක්රියා",
     "done": false
@@ -12,11 +17,6 @@
   {
     "Sentence": "Emergence",
     "Meaning": "ඉස්මතු වීම",
-    "done": true
-  },
-  {
-    "Sentence": "Google Translate",
-    "Meaning": "Google පරි 'වර්තක",
     "done": true
   },
   {
