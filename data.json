@@ -1,5 +1,10 @@
 [
   {
+    "Sentence": "hi",
+    "Meaning": "හායි",
+    "done": false
+  },
+  {
     "Sentence": "gavindu",
     "Meaning": "ගවිඳු",
     "done": false
@@ -7,11 +12,6 @@
   {
     "Sentence": "hi",
     "Meaning": "හූයි"
-  },
-  {
-    "Sentence": "hi",
-    "Meaning": "හායි",
-    "done": true
   },
   {
     "Sentence": "exit",
