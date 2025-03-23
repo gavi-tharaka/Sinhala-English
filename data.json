@@ -1,9 +1,5 @@
 [
   {
-    "Sentence": "Press",
-    "Meaning": "ඔබන්න"
-  },
-  {
     "Sentence": "GitHub",
     "Meaning": "ගිරබ්"
   },
@@ -15,6 +11,11 @@
   {
     "Sentence": "hi",
     "Meaning": "හායි",
+    "done": true
+  },
+  {
+    "Sentence": "Press",
+    "Meaning": "ඔබන්න",
     "done": true
   }
 ]
