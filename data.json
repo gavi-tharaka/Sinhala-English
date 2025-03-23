@@ -1,12 +1,12 @@
 [
   {
-    "Sentence": "interaction",
-    "Meaning": "අන්තර්ක්රියා",
+    "Sentence": "Emergence",
+    "Meaning": "ඉස්මතු වීම",
     "done": false
   },
   {
-    "Sentence": "Emergence",
-    "Meaning": "ඉස්මතු වීම",
-    "done": true
+    "Sentence": "interaction",
+    "Meaning": "අන්තර්ක්රියා",
+    "done": false
   }
 ]
