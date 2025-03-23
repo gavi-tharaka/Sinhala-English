@@ -5,11 +5,12 @@
     "done": false
   },
   {
-    "Sentence": "interaction",
+    "Sentence": "interacted",
     "Meaning": "අන්තර්ක්රියා"
   },
   {
-    "Sentence": "interacted",
-    "Meaning": "අන්තර්ක්රියා"
+    "Sentence": "interaction",
+    "Meaning": "අන්තර්ක්රියා",
+    "done": true
   }
 ]
