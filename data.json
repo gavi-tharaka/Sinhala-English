@@ -10,17 +10,17 @@
     "done": false
   },
   {
-    "Sentence": "interaction",
-    "Meaning": "අන්තර්ක්රියා",
-    "done": false
-  },
-  {
     "Sentence": "are",
     "Meaning": "වේ"
   },
   {
     "Sentence": "However",
     "Meaning": "කෙසේ වෙතත්",
+    "done": true
+  },
+  {
+    "Sentence": "interaction",
+    "Meaning": "අන්තර්ක්රියා",
     "done": true
   }
 ]
