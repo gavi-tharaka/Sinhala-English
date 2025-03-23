@@ -1,5 +1,10 @@
 [
   {
+    "Sentence": "exit",
+    "Meaning": "ඉවත්වීම",
+    "done": false
+  },
+  {
     "Sentence": "Press",
     "Meaning": "ඔබන්න",
     "done": false
@@ -22,11 +27,6 @@
   {
     "Sentence": "hi",
     "Meaning": "හායි",
-    "done": true
-  },
-  {
-    "Sentence": "exit",
-    "Meaning": "ඉවත්වීම",
     "done": true
   }
 ]
