@@ -1,5 +1,10 @@
 [
   {
+    "Sentence": "dgd",
+    "Meaning": "dgdg",
+    "done": false
+  },
+  {
     "Sentence": "GitHub",
     "Meaning": "ගිරබ්",
     "done": false
@@ -15,18 +20,13 @@
     "done": false
   },
   {
-    "Sentence": "Press",
-    "Meaning": "ඔබන්න",
-    "done": false
-  },
-  {
-    "Sentence": "dgd",
-    "Meaning": "dgdg",
+    "Sentence": "exit",
+    "Meaning": "ඉවත්වීම",
     "done": true
   },
   {
-    "Sentence": "exit",
-    "Meaning": "ඉවත්වීම",
+    "Sentence": "Press",
+    "Meaning": "ඔබන්න",
     "done": true
   }
 ]
