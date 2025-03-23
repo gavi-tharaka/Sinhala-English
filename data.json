@@ -1,10 +1,5 @@
 [
   {
-    "Sentence": "gavindu",
-    "Meaning": "ගවිඳු",
-    "done": false
-  },
-  {
     "Sentence": "hi",
     "Meaning": "හූයි"
   },
@@ -16,6 +11,11 @@
   {
     "Sentence": "exit",
     "Meaning": "ඉවත්වීම",
+    "done": true
+  },
+  {
+    "Sentence": "gavindu",
+    "Meaning": "ගවිඳු",
     "done": true
   }
 ]
