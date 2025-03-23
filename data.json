@@ -1,9 +1,5 @@
 [
   {
-    "Sentence": "However",
-    "Meaning": "කෙසේ වෙතත්"
-  },
-  {
     "Sentence": "Emergence",
     "Meaning": "ඉස්මතු වීම",
     "done": true
@@ -16,6 +12,11 @@
   {
     "Sentence": "interaction",
     "Meaning": "අන්තර්ක්රියා",
+    "done": true
+  },
+  {
+    "Sentence": "However",
+    "Meaning": "කෙසේ වෙතත්",
     "done": true
   }
 ]
