@@ -5,10 +5,11 @@
   },
   {
     "Sentence": "hi",
-    "Meaning": "හායි"
+    "Meaning": "හූයි"
   },
   {
     "Sentence": "hi",
-    "Meaning": "හූයි"
+    "Meaning": "හායි",
+    "done": true
   }
 ]
