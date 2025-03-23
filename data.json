@@ -1,39 +1,34 @@
 [
-    {
-        "Sentence": "fxbxf",
-        "Meaning": "xfbfx",
-        "done": false
-    },
-    {
-        "Sentence": "fbxf",
-        "Meaning": "xfb",
-        "done": false
-    },
-    {
-        "Sentence": "hi",
-        "Meaning": "හායි",
-        "done": false
-    },
-    {
-        "Sentence": "gavindu",
-        "Meaning": "ගවිඳු tharaka",
-        "done": false
-    },
-    {
-        "Sentence": "hi",
-        "Meaning": "හූයි"
-    },
-    {
-        "Sentence": "exit",
-        "Meaning": "ඉවත්වීම",
-        "done": true
-    },
-    {
-        "Sentence": "Press",
-        "Meaning": "ඔබන්න"
-    },
-    {
-        "Sentence": "GitHub",
-        "Meaning": "ගිරබ්"
-    }
+  {
+    "Sentence": "fxbxf",
+    "Meaning": "xfbfx",
+    "done": false
+  },
+  {
+    "Sentence": "hi",
+    "Meaning": "හායි",
+    "done": false
+  },
+  {
+    "Sentence": "gavindu",
+    "Meaning": "ගවිඳු tharaka",
+    "done": false
+  },
+  {
+    "Sentence": "hi",
+    "Meaning": "හූයි"
+  },
+  {
+    "Sentence": "exit",
+    "Meaning": "ඉවත්වීම",
+    "done": true
+  },
+  {
+    "Sentence": "Press",
+    "Meaning": "ඔබන්න"
+  },
+  {
+    "Sentence": "GitHub",
+    "Meaning": "ගිරබ්"
+  }
 ]
