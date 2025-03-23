@@ -1,5 +1,10 @@
 [
   {
+    "Sentence": "Emergence",
+    "Meaning": "ඉස්මතු වීම",
+    "done": false
+  },
+  {
     "Sentence": "Google Translate",
     "Meaning": "Google පරි 'වර්තක",
     "done": false
@@ -10,17 +15,12 @@
     "done": false
   },
   {
-    "Sentence": "However",
-    "Meaning": "කෙසේ වෙතත්",
-    "done": false
-  },
-  {
-    "Sentence": "Emergence",
-    "Meaning": "ඉස්මතු වීම",
-    "done": true
-  },
-  {
     "Sentence": "are",
     "Meaning": "වේ"
+  },
+  {
+    "Sentence": "However",
+    "Meaning": "කෙසේ වෙතත්",
+    "done": true
   }
 ]
