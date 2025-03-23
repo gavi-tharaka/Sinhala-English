@@ -15,11 +15,6 @@
     "done": false
   },
   {
-    "Sentence": "GitHub",
-    "Meaning": "ගිරබ්",
-    "done": false
-  },
-  {
     "Sentence": "sgfsd",
     "Meaning": "dgfdg",
     "done": false
@@ -27,6 +22,11 @@
   {
     "Sentence": "hi",
     "Meaning": "හායි",
+    "done": true
+  },
+  {
+    "Sentence": "GitHub",
+    "Meaning": "ගිරබ්",
     "done": true
   }
 ]
