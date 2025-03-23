@@ -1,26 +1,26 @@
 [
-    {
-        "Sentence": "Emergence",
-        "Meaning": "ඉස්මතු වීම",
-        "done": true
-    },
-    {
-        "Sentence": "Google Translate",
-        "Meaning": "Google පරි 'වර්තක",
-        "done": true
-    },
-    {
-        "Sentence": "interaction",
-        "Meaning": "අන්තර්ක්රියා",
-        "done": true
-    },
-    {
-        "Sentence": "However",
-        "Meaning": "කෙසේ වෙතත්",
-        "done": true
-    },
-    {
-        "Sentence": "are",
-        "Meaning": "වේ"
-    }
+  {
+    "Sentence": "However",
+    "Meaning": "කෙසේ වෙතත්",
+    "done": false
+  },
+  {
+    "Sentence": "Emergence",
+    "Meaning": "ඉස්මතු වීම",
+    "done": true
+  },
+  {
+    "Sentence": "Google Translate",
+    "Meaning": "Google පරි 'වර්තක",
+    "done": true
+  },
+  {
+    "Sentence": "interaction",
+    "Meaning": "අන්තර්ක්රියා",
+    "done": true
+  },
+  {
+    "Sentence": "are",
+    "Meaning": "වේ"
+  }
 ]
