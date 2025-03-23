@@ -1,5 +1,10 @@
 [
   {
+    "Sentence": "GitHub",
+    "Meaning": "ගිරබ්",
+    "done": false
+  },
+  {
     "Sentence": "sgfsd",
     "Meaning": "dgfdg",
     "done": false
@@ -23,10 +28,5 @@
     "Sentence": "Press",
     "Meaning": "ඔබන්න",
     "done": false
-  },
-  {
-    "Sentence": "GitHub",
-    "Meaning": "ගිරබ්",
-    "done": true
   }
 ]
