@@ -1,18 +1,19 @@
 [
-    {
-        "Sentence": "interaction",
-        "Meaning": "අන්තර්ක්රියා"
-    },
-    {
-        "Sentence": "interacted",
-        "Meaning": "අන්තර්ක්රියා"
-    },
-    {
-        "Sentence": "Emergence",
-        "Meaning": "ඉස්මතු වීම"
-    },
-    {
-        "Sentence": "style=\"font-size:60px;color:red;\"",
-        "Meaning": "විලාසිතාව = \"අකුරු ප්රමාණය: 60px; වර්ණය: රතු;\""
-    }
+  {
+    "Sentence": "interaction",
+    "Meaning": "අන්තර්ක්රියා"
+  },
+  {
+    "Sentence": "interacted",
+    "Meaning": "අන්තර්ක්රියා"
+  },
+  {
+    "Sentence": "Emergence",
+    "Meaning": "ඉස්මතු වීම"
+  },
+  {
+    "Sentence": "style=\"font-size:60px;color:red;\"",
+    "Meaning": "විලාසිතාව = \"අකුරු ප්රමාණය: 60px; වර්ණය: රතු;\"",
+    "done": true
+  }
 ]
