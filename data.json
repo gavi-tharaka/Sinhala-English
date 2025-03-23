@@ -1,20 +1,20 @@
 [
-    {
-        "Sentence": "Emergence",
-        "Meaning": "ඉස්මතු වීම",
-        "done": false
-    },
-    {
-        "Sentence": "interaction",
-        "Meaning": "අන්තර්ක්රියා",
-        "done": false
-    },
-    {
-        "Sentence": "Google Translate",
-        "Meaning": "Google පරි 'වර්තක"
-    },
-    {
-        "Sentence": "However",
-        "Meaning": "කෙසේ වෙතත්"
-    }
+  {
+    "Sentence": "interaction",
+    "Meaning": "අන්තර්ක්රියා",
+    "done": false
+  },
+  {
+    "Sentence": "Google Translate",
+    "Meaning": "Google පරි 'වර්තක"
+  },
+  {
+    "Sentence": "However",
+    "Meaning": "කෙසේ වෙතත්"
+  },
+  {
+    "Sentence": "Emergence",
+    "Meaning": "ඉස්මතු වීම",
+    "done": true
+  }
 ]
