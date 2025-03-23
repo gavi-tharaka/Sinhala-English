@@ -1,26 +1,30 @@
 [
-  {
-    "Sentence": "are",
-    "Meaning": "වේ"
-  },
-  {
-    "Sentence": "However",
-    "Meaning": "කෙසේ වෙතත්",
-    "done": true
-  },
-  {
-    "Sentence": "interaction",
-    "Meaning": "අන්තර්ක්රියා",
-    "done": true
-  },
-  {
-    "Sentence": "Google Translate",
-    "Meaning": "Google පරි 'වර්තක",
-    "done": true
-  },
-  {
-    "Sentence": "Emergence",
-    "Meaning": "ඉස්මතු වීම",
-    "done": true
-  }
+    {
+        "Sentence": "are",
+        "Meaning": "වේ"
+    },
+    {
+        "Sentence": "However",
+        "Meaning": "කෙසේ වෙතත්",
+        "done": true
+    },
+    {
+        "Sentence": "interaction",
+        "Meaning": "අන්තර්ක්රියා",
+        "done": true
+    },
+    {
+        "Sentence": "Google Translate",
+        "Meaning": "Google පරි 'වර්තක",
+        "done": true
+    },
+    {
+        "Sentence": "Emergence",
+        "Meaning": "ඉස්මතු වීම",
+        "done": true
+    },
+    {
+        "Sentence": "https://chatgpt.com/c/67dfd7b8-dd74-8006-bf17-4987b2dddfdb#:~:text=Websites%20%26%20Blogs-,Origami.me,-%E2%80%93%20A%20collection%20of",
+        "Meaning": "https://chatgpt.com/c/67dfd7b8-dd74-8006-bf17-4987b2dddfdb#:~:text=Websites%20%26%20Blogs-,Origami.me,-%E2%80%93%20A%20collection%20of"
+    }
 ]
