@@ -1,9 +1,5 @@
 [
   {
-    "Sentence": "GitHub",
-    "Meaning": "ගිරබ්"
-  },
-  {
     "Sentence": "exit",
     "Meaning": "ඉවත්වීම",
     "done": true
@@ -16,6 +12,11 @@
   {
     "Sentence": "Press",
     "Meaning": "ඔබන්න",
+    "done": true
+  },
+  {
+    "Sentence": "GitHub",
+    "Meaning": "ගිරබ්",
     "done": true
   }
 ]
