@@ -1,5 +1,10 @@
 [
   {
+    "Sentence": "interaction",
+    "Meaning": "අන්තර්ක්රියා",
+    "done": false
+  },
+  {
     "Sentence": "Emergence",
     "Meaning": "ඉස්මතු වීම",
     "done": false
@@ -7,10 +12,5 @@
   {
     "Sentence": "interacted",
     "Meaning": "අන්තර්ක්රියා"
-  },
-  {
-    "Sentence": "interaction",
-    "Meaning": "අන්තර්ක්රියා",
-    "done": true
   }
 ]
