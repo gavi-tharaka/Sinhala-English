@@ -1,15 +1,16 @@
 [
   {
-    "Sentence": "exit",
-    "Meaning": "ඉවත්වීම"
-  },
-  {
     "Sentence": "hi",
     "Meaning": "හූයි"
   },
   {
     "Sentence": "hi",
     "Meaning": "හායි",
+    "done": true
+  },
+  {
+    "Sentence": "exit",
+    "Meaning": "ඉවත්වීම",
     "done": true
   }
 ]
